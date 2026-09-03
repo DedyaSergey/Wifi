@@ -1,4 +1,4 @@
-# Wifi - VLESS Server Configuration
+# Wifi - VLESS Server Configuration NOT WORKING!!!!!
 
 This repository contains VLESS server configurations for Happ WiFi.
 
